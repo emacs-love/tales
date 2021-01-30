@@ -1,0 +1,10 @@
+{% extends "base_layout.html" %} {% block main %}
+<article>
+  <h1>
+    {{ post.title }}
+  </h1>
+  <section>
+    {{ post.html|safe }}
+  </section>
+</article>
+{% endblock %}

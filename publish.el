@@ -26,12 +26,29 @@
 ;; Generate index
 (weblorg-route
  :name "index"
- :input-pattern "stories/*.org"
+ :input-pattern "tales/*.org"
  :input-aggregate #'weblorg-input-aggregate-all
  :template "index.html"
  :output "index.html"
  :url "/")
 
+(weblorg-route
+ :name "tale"
+ :input-pattern "tales/*.org"
+ :template "tale.html"
+ :output "tales/{{ slug }}.html"
+ :url "/tales/{{ slug }}.html")
+
+(weblorg-route
+ :name "pages"
+ :input-pattern "pages/*.org"
+ :template "tale.html"
+ :output "{{ slug }}.html"
+ :url "/{{ slug }}.html")
+
+(weblorg-route
+ :name "static"
+ :url "/static/{{ file }}")
 
 (weblorg-export)
 ;;; publish.el ends here

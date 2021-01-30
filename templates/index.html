@@ -1,0 +1,12 @@
+{% extends "base_layout.html" %} {% block main %}
+<article>
+  <h2>Chapters</h2>
+  <ol class="posts">
+    {% for post in posts %}
+    <li class="post-title">
+      <a href="{{ url_for("tale", slug=post.slug) }}">{{ post.title }}</a>
+    </li>
+    {% endfor %}
+  </ol>
+</article>
+{% endblock %}
