@@ -37,7 +37,7 @@
  :input-pattern "tales/*.org"
  :template "tale.html"
  :output "tales/{{ slug }}.html"
- :url "/tales/{{ slug }}.html")
+ :url "/{{ slug }}.html")
 
 (weblorg-route
  :name "pages"
