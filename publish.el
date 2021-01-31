@@ -21,7 +21,7 @@
 
 ;; Defaults to localhost:8000
 (if (string= (getenv "ENV") "prod")
-    (setq weblorg-default-url "https://emacs.love/"))
+    (setq weblorg-default-url "https://emacs.love"))
 
 ;; Generate index
 (weblorg-route
