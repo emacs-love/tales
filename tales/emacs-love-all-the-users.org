@@ -1,5 +1,24 @@
 #+TITLE: Emacs love all the users
 
-When I first meet Richard Stallman, I was anxious to thanks him to create emacs, he responded with the "obvious" but unexpected phrase, "Oh that's good, Emacs love all the users"
+When I first met Richard Stallman, I was anxious to thank him for
+creating Emacs, he responded with the "obvious" but unexpected
+phrase, "Oh that's good, Emacs loves all its users"
 
-I started using emacs in 2011, my greatest friend Lincoln Clarete (@clarete) show me this beloved "editor" while we work together. In this time I was a happy Vim user, until I see this automagically indent with Tab for html code. It was just a begining of my love stories with emacs, to be honest my storie with emacs is a story of a friendship too. Me and Lincoln has a lot of things in common and I had the pleasure of sharig with him a room, workplace, city and lot of other things we like, Emacs is one of them, I started using his emacs config and after sometime I started to make small changes and today we have configurations like children of same parents, came from the same place but each one has it's own personality. Discovery and learn new things became part of our relationship, we don't share roof anymore, neighter workplace and country, but we share this amazing friendship and the love for emacs.
+I started using Emacs back in 2011, my greatest friend Lincoln
+Clarete ([[http://clarete.li][@clarete]]) shown me this lovely "editor" while we worked
+together. At this time, I was a happy Vim user, until I saw HTML
+code automagically indented with Tab. It was just the beginning
+of my love story with Emacs.
+
+My story with Emacs is a story of a friendship too. Lincoln and
+I have a lot of things in common and I had the pleasure of
+sharing with him our home, workplace, city and lot of other
+things we like, Emacs is one of them. I started using his Emacs
+config and after sometime I started to make small changes and
+today we have configurations like children of same parents, came
+from the same place but each one has it's own personality.
+
+Discovery and learning new things became part of our
+relationship, we don't share a roof anymore, neither workplace
+nor country, but we share this amazing friendship and the love
+for Emacs.

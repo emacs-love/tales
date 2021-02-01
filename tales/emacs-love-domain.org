@@ -1,0 +1,18 @@
+#+TITLE: Emacs love domain
+
+After deciding to buy the emacs.love domain, I was excited to
+start using my fresh and loved domain, but after pushing my first
+draft to Github Pages, I get another website showing up.  After a
+bit of debugging I realize, there was I not the first to have
+that idea and someone else had a Github Pages site with the same
+domain.
+
+Long story short, we buy a domain that the old owner didn't
+renew, but keep the repository with the CNAME.  Fortunately I
+could get in touch and get a quick and lovely reply:
+
+#+BEGIN_QUOTE
+Brilliant. I'm super happy someone bought the domain for good use. I've removed it from my github so feel free to configure it.
+#+END_QUOTE
+
+Moments like this makes my heart laugh and I feel so joyful and remembers me that [[url_for:tale,slug=emacs-love-all-the-users][Emacs love all the users]]
