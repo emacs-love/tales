@@ -1,9 +1,7 @@
 #+TITLE: Tell your tale
 #+SLUG: contribute
 
-This website was inspired by awesome and exciting tales I saw frequently on emacs subreddit[fn:1]. I believe share this personal
+This website was inspired by awesome and exciting tales I saw frequently on emacs subreddit. I believe share this personal
 experiences makes the emacs experience more human and helps we develop ourselves and our emacs skills together.
 
 Feel free to share you tale with us [[https://github.com/emacs-love/tales][opening a pull request]] or sending your story to [[mailto:tales@emacs.love][tales@emacs.love]].
-
-[fn:1]: https://www.reddit.com/r/emacs/comments/ko6ir5/thank_you/
