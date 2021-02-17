@@ -1,4 +1,5 @@
 #+TITLE: Emacs love domain
+#+DATE: <2021-02-02>
 
 After deciding to buy the emacs.love domain, I was excited to
 start using my fresh and loved domain, but after pushing my first

@@ -27,7 +27,7 @@
 (weblorg-route
  :name "index"
  :input-pattern "tales/*.org"
- :input-aggregate #'weblorg-input-aggregate-all
+ :input-aggregate #'weblorg-input-aggregate-all-desc
  :template "index.html"
  :output "index.html"
  :url "/")
