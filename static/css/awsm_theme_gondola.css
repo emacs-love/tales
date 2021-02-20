@@ -6,7 +6,7 @@
  */
 html{
   font-family: 'Spectral', serif;
-  font-size:100%;
+  font-size:150%;
   line-height:1.4;
   background:#1f1010;
   color:#fff2e1;
@@ -46,6 +46,15 @@ body > header p{
   margin:0;
   font-size:0.85em;
 }
+body > header a{
+    color: white;
+    text-decoration: none;
+}
+body > header a:visited,
+body > header a:hover {
+  color: white;
+}
+
 body > footer{
   margin-top:6em;
   padding-bottom:1.5em;
@@ -158,7 +167,7 @@ section + section{
 }
 
 h1, h2, h3, h4, h5, h6{
-  font-family: 'Spectral SC', 'Helvetica', 'Arial', sans-serif;
+  font-family: 'Spectral', 'Helvetica', 'Arial', sans-serif;
   margin:1.25em 0 0;
   line-height:1.2;
 }

@@ -40,13 +40,6 @@
  :url "/{{ slug }}.html")
 
 (weblorg-route
- :name "pages"
- :input-pattern "pages/*.org"
- :template "tale.html"
- :output "{{ slug }}.html"
- :url "/{{ slug }}.html")
-
-(weblorg-route
  :name "static"
  :url "/static/{{ file }}")
 

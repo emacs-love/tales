@@ -1,6 +1,14 @@
-{% extends "base_layout.html" %} {% block main %}
+{% extends "base_layout.html" %}
+{% block intro %}
+<section>
+  <p>Emacs Tales was inspired on amazing and exciting tales I frequently read on <a href="http://reddit.com/r/emacs" target="_blank">r/emacs</a>, one special this <a href="https://www.reddit.com/r/emacs/comments/k2oppg/what_hooked_you_on_emacs/gdwhm5r" target="_blank">comment</a> trigger the ideia of a place to stories like that don't get lost on reddit.</p>
+  <p>I believe that share this personal tales makes the emacs experience more human and helps we develop ourselves and our emacs skills together.</p>
+  <p>Feel free to share you tale with us <a href="https://github.com/emacs-love/tales" target="_blank">opening a pull request</a> or sending your story to <a href="mailto:tales@emacs.love">tales@emacs.love</a>.</p>
+</section>
+{% endblock %}
+{% block main %}
 <article>
-  <h2>Chapters</h2>
+  <h2>Tales</h2>
   <ol class="posts">
     {% for post in posts %}
     <li class="post-title">
