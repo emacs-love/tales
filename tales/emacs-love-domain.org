@@ -17,4 +17,4 @@ Brilliant. I'm super happy someone bought the domain for good use. I've removed 
 #+END_QUOTE
 
 Moments like this makes my heart laugh and I feel so joyful and remembers me that [[url_for:tale,slug=emacs-loves-all-its-users
-][Emacs loves all the users]]
+][Emacs loves all its users]]
