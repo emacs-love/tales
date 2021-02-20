@@ -16,4 +16,5 @@ could get in touch and get a quick and lovely reply:
 Brilliant. I'm super happy someone bought the domain for good use. I've removed it from my github so feel free to configure it.
 #+END_QUOTE
 
-Moments like this makes my heart laugh and I feel so joyful and remembers me that [[url_for:tale,slug=emacs-love-all-the-users][Emacs love all the users]]
+Moments like this makes my heart laugh and I feel so joyful and remembers me that [[url_for:tale,slug=emacs-loves-all-its-users
+][Emacs loves all the users]]
