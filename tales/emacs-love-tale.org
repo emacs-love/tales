@@ -1,5 +1,7 @@
-#+TITLE: Emacs Love Tale by sdp
+#+TITLE: Emacs Love Tale
+#+SLUG: emacs-love-tale-by-sdp
 #+DATE: <2021-02-16>
+#+AUTHOR: sdp
 
 I never intended to use emacs, but because I was in love, I did anyway. My wife had never had a computer in her home until she lived with me. As a computer professional who wanted to leave work at work she was understandably skeptical, but she worked on mainframes, and my little early days Macintosh was friendly in a way she had not experienced. She was soon won over. Then Apple went Mac OS X on us: the interface changed, it didn't work well on our equipment, and the experience soured.
 

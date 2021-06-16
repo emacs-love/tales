@@ -1,6 +1,6 @@
 #+TITLE: Emacs loves all its users
 #+DATE: <2021-02-01>
-
+#+AUTHOR: guerrinha
 When I first met Richard Stallman, I was anxious to thank him for
 creating Emacs, he responded with the "obvious" but unexpected
 phrase, "Oh that's good, Emacs loves all its users"

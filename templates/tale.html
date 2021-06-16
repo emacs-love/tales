@@ -1,10 +1,11 @@
 {% extends "base_layout.html" %} {% block main %}
 <article>
+  <header>
   <h1>
     {{ post.title }}
   </h1>
-  <section>
-    {{ post.html|safe }}
-  </section>
+  <p>by {{post.author}} | {{ post.date|strftime("%b %d, %Y") }}</p>
+  </header>
+  {{ post.html|safe }}
 </article>
 {% endblock %}
