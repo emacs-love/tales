@@ -3,6 +3,8 @@
 #+DATE: <2021-02-16>
 #+AUTHOR: sdp
 
+/This tale was written by sdp as a request for a long an rich version from a [[https://www.reddit.com/r/emacs/comments/k2oppg/what_hooked_you_on_emacs/gdwhm5r/][comment]] on [[https://www.reddit.com/r/emacs/][r/emacs]]/
+
 I never intended to use emacs, but because I was in love, I did anyway. My wife had never had a computer in her home until she lived with me. As a computer professional who wanted to leave work at work she was understandably skeptical, but she worked on mainframes, and my little early days Macintosh was friendly in a way she had not experienced. She was soon won over. Then Apple went Mac OS X on us: the interface changed, it didn't work well on our equipment, and the experience soured.
 
 We switched to linux, and I promised her there would be adequate replacements for all her apps. Most things were easy; she found browser, email, and file managers acceptable enough. But she had become enamored of Apple's desk accessory notepad, and nothing I found was to her liking. I tried to convince her that she could become accustomed to an ordinary text editor, and she was open to that. She tried everything in our distro (Debian potato), but she wasn't happy with any of them. When I caught her slipping back to the one computer still running Mac OS 9 just to take notes, I knew I was going to have to write her a notepad.
