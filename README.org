@@ -1,0 +1,9 @@
+Emacs Tales was inspired by amazing, exciting stories I frequently read on
+[[https://www.reddit.com/r/emacs][r/emacs]]. One special [[https://www.reddit.com/r/emacs/comments/k2oppg/what_hooked_you_on_emacs/gdwhm5r][comment]] triggered the idea for a place to collect stories
+like that, so they don't get lost on Reddit.
+
+I believe that sharing personal tales makes the emacs experience more human
+and helps us develop ourselves and our emacs skills together.
+
+Feel free to share your tale with us by [[https://github.com/emacs-love/tales][opening a pull request]] or sending your story
+to [[tales@emacs.love][tales@emacs.love]].
