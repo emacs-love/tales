@@ -14,10 +14,13 @@
   (package-refresh-contents)
   (package-install 'use-package))
 
+(unless package-archive-contents
+  (package-refresh-contents))
+
 ;; Install and configure dependencies
-(use-package templatel)
-(use-package htmlize)
-(use-package weblorg)
+(use-package templatel :ensure t)
+(use-package htmlize  :ensure t)
+(use-package weblorg  :ensure t)
 
 ;; Defaults to localhost:8000
 (if (string= (getenv "ENV") "prod")
